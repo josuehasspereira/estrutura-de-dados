@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1687381347 source:c:\users\13257180926\documents\trabalho03\projeto03\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+
+1687381362 c:\users\13257180926\documents\trabalho03\projeto03\lista.h
+
+1687381324 source:c:\users\13257180926\documents\trabalho03\projeto03\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UniaoBusca.h"
+
+1687381440 c:\users\13257180926\documents\trabalho03\projeto03\uniaobusca.h
+	"Lista.h"
+
+1687381405 source:c:\users\13257180926\documents\trabalho03\projeto03\uniaobusca.c
+	"UniaoBusca.h"
+	<stdlib.h>
+	<stdio.h>
+
